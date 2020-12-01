@@ -1,0 +1,6 @@
+*
+!/**/
+!src/**/*.rs
+!Cargo.toml
+!.gitignore
+!**/inputs/**/*.txt
