@@ -1,9 +1,10 @@
 mod days;
 
 pub use days::{
-    day01
+    day01,
+    day02,
 };
 
 fn main() {
-    day01::exercise02::main();
+    day02::exercise01::main();
 }
