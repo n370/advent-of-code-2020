@@ -7,9 +7,10 @@ pub use days::{
     day04,
     day05,
     day06,
+    day07,
 };
 
 fn main() {
-    // day06::exercise01::main();
-    day06::exercise02::main();
+    day07::exercise01::main();
+    // day07::exercise02::main();
 }
