@@ -11,6 +11,6 @@ pub use days::{
 };
 
 fn main() {
-    day07::exercise01::main();
-    // day07::exercise02::main();
+    // day07::exercise01::main();
+    day07::exercise02::main();
 }
