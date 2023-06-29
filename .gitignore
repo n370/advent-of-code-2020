@@ -4,3 +4,4 @@
 !Cargo.toml
 !.gitignore
 !**/inputs/**/*.txt
+!*.sh
